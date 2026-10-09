@@ -8,8 +8,6 @@ I'm a software engineer from Buenos Aires, Argentina. I spent my first years bui
 
 There's something special about opening up a game from twenty years ago and slowly figuring out how it thinks. That's the part I enjoy the most, and it's what I want to keep doing.
 
-By the way, Nahuel means jaguar in Mapudungun, so you'll find one hiding in the banner above.
-
 ## What I'm working on
 
 **[dsi-retroachievements](https://github.com/NahuelGenchi/dsi-retroachievements)** brings RetroAchievements to the Nintendo DSi. It's my main project right now, and I'll be sharing progress as it moves forward.

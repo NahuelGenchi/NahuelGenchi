@@ -3,36 +3,36 @@
   <img src="assets/header-light.svg" width="419" alt="nahuel genchi. front-end by trade, reverse engineering by passion.">
 </picture>
 
-I'm a software engineer from Buenos Aires. I spent my first years building for the web, and these days most of my free time goes into taking old games apart to see how they think, then making them do things they were never built for.
+i'm a software engineer from buenos aires. i spent my first years building for the web, and these days most of my free time goes into taking old games apart to see how they think, then making them do things they were never built for.
 
-[nahuelgenchi.com](https://nahuelgenchi.com) &nbsp;·&nbsp; [X](https://x.com/NahuelGenchi) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nahuel-genchi)
+[nahuelgenchi.com](https://nahuelgenchi.com) &nbsp;·&nbsp; [x](https://x.com/NahuelGenchi) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/nahuel-genchi)
 
 <br>
 
 ###### gaming
 
-**[Onsoku Advance](https://github.com/NahuelGenchi/onsoku-advance)**<br>
-Sonic Advance, rebuilt from scratch for the browser. No emulator: just new code and your own ROM. [Play&nbsp;it&nbsp;↗](https://nahuelgenchi.github.io/onsoku-advance/)
+**palmaris**<br>
+offline achievements for ds games on the nintendo dsi, compatible with retroachievements. coming soon.
 
-**[Sonic Advance Remaster](https://github.com/NahuelGenchi/sonic-advance-remaster)**<br>
-Sonic Advance 1 and 2 as native widescreen desktop games, built from their decompilation.
+**[onsoku advance](https://github.com/NahuelGenchi/onsoku-advance)**<br>
+sonic advance, rebuilt from scratch for the browser. no emulator: just new code and your own rom. [play&nbsp;it&nbsp;↗](https://nahuelgenchi.github.io/onsoku-advance/)
 
-**[Kirby's Dead Land](https://github.com/NahuelGenchi/kirbys-dead-land)**<br>
-Kirby, playable in Dead Cells. The original DS game runs inside the mod and drives every move.
+**[kirby's dead land](https://github.com/NahuelGenchi/kirbys-dead-land)**<br>
+kirby, playable in dead cells. the original ds game runs inside the mod and drives every move.
 
 <br>
 
 ###### software
 
-**[Ocean Mist](https://github.com/NahuelGenchi/ocean-mist)**<br>
-The look of Windows Media Player 9, back as a music player for Linux.
+**[ocean mist](https://github.com/NahuelGenchi/ocean-mist)**<br>
+the look of windows media player 9, back as a music player for linux.
 
-**[Padlight](https://github.com/NahuelGenchi/padlight)**<br>
-Your Xbox controller, live in the GNOME top bar, down to every button press.
+**[padlight](https://github.com/NahuelGenchi/padlight)**<br>
+your xbox controller, live in the gnome top bar, down to every button press.
 
 **[arbor](https://github.com/NahuelGenchi/arbor)**<br>
-An operating system built for AI agents, measured on a real PC first. [Read&nbsp;the&nbsp;proposal&nbsp;↗](https://nahuelgenchi.com/software/arbor/)
+an operating system built for ai agents, measured on a real pc first. [read&nbsp;the&nbsp;proposal&nbsp;↗](https://nahuelgenchi.com/software/arbor/)
 
 <br>
 
-Working on a decomp, a mod or homebrew and could use another pair of hands? [My&nbsp;DMs&nbsp;are&nbsp;open](https://x.com/NahuelGenchi).
+working on a decomp, a mod or homebrew and could use another pair of hands? [my&nbsp;dms&nbsp;are&nbsp;open](https://x.com/NahuelGenchi).
